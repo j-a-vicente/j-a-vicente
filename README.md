@@ -13,8 +13,8 @@ Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas, com p
 ------------------------------------------------------
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-a-vicente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="70%"/ >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-a-vicente&layout=compact&langs_count=6&theme=algolia" width="70%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-a-vicente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="40%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-a-vicente&layout=compact&langs_count=6&theme=algolia" width="40%"/>
 </div>
 
 ------------------------------------------------------
