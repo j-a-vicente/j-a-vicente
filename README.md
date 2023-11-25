@@ -1,7 +1,5 @@
 # Olá seja bem vido ao meu GITHUB!
 
-<img src="Designer (12).jpeg" width="10%">
-
 ### Quem sou eu
 Com uma trajetória de 15 anos como Administrador de Banco de Dados em ambientes críticos de órgãos públicos federais brasileiros, adquiri experiência diversificada trabalhando com os principais Sistemas Gerenciadores de Bancos de Dados (SGBDs) disponíveis no mercado. Ao longo da minha carreira, destaco meu envolvimento em funções abrangentes, desde o desenvolvimento e implementação de soluções de arquitetura de segurança e alta disponibilidade até tarefas complexas, como a reorganização completa de ambientes de SGBD.
 
@@ -10,8 +8,6 @@ Minha expertise inclui a resolução eficaz de problemas, análise de desempenho
 No cenário da nuvem, tenho acompanhado de perto a crescente adoção de ambientes cloud nos últimos anos. Atualmente, colaboro com os principais provedores de nuvem, como AWS, Azure, Google e OCI. Além das habilidades técnicas, destaco minha facilidade em trabalhar em equipe, liderar projetos e resolver desafios de forma eficiente. Mantenho um compromisso constante com a atualização em relação às novas tecnologias e tendências do mercado.
 
 Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas, com pós-graduação em Banco de Dados e Big Data (Ciência de Dados). Atualmente, estou cursando Mestrado em Marketing Digital e Big Data pela Fundação Universitária Iberoamericana, consolidando minha busca contínua por conhecimento e aprimoramento profissional.
-
-
 
 
 ------------------------------------------------------
