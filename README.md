@@ -1,21 +1,24 @@
 # Olá seja bem vido ao meu GITHUB!
 
+<img src="Designer (12).jpeg" width="10%">
 
 ### Quem sou eu
-Sou administrador de banco de dados com 15 anos de experiência em ambientes críticos em órgãos Públicos Federais Brasileiros. Ao longo desta carreira, trabalhei com os principais SGBDs disponíveis no mercado em múltiplas funções. Desenvolvi e implementei soluções de arquitetura de segurança, alta disponibilidade, e o que considero ser o trabalho mais complexo, a reorganização do ambiente do SGBD. Tenho uma vasta experiência na resolução de problemas, análise de desempenho e tuning, gestão de sistemas operativos Linux e Windows, utilizando PowerShell e VBScript. 
+Com uma trajetória de 15 anos como Administrador de Banco de Dados em ambientes críticos de órgãos públicos federais brasileiros, adquiri experiência diversificada trabalhando com os principais Sistemas Gerenciadores de Bancos de Dados (SGBDs) disponíveis no mercado. Ao longo da minha carreira, destaco meu envolvimento em funções abrangentes, desde o desenvolvimento e implementação de soluções de arquitetura de segurança e alta disponibilidade até tarefas complexas, como a reorganização completa de ambientes de SGBD.
 
-Tenho trabalhado na implementação da governação de dados e na automatização do processo de inventário dos servidores de bases de dados activos e respectivos metadados. Este trabalho é o início de outros processos como dicionário de dados, mapa de dados, catálogo de dados, análise de dados e big data. 
+Minha expertise inclui a resolução eficaz de problemas, análise de desempenho e tuning, além da gestão de sistemas operacionais Linux e Windows, utilizando ferramentas como PowerShell e VBScript. Tenho desempenhado um papel crucial na implementação da governança de dados, automatizando o processo de inventário de servidores de bancos de dados ativos e seus metadados. Essa iniciativa serve como base para a implementação de outros processos, como dicionário de dados, mapa de dados, catálogo de dados, análise de dados e big data.
 
-Nuvem: a administração dos ambientes cloud tem aumentado neste último anos, muitas das empresas e órgãos públicos estão migrando para estão solução. Os provedores clouds do qual tenho trabalhado atualmente são: AWS, Azure, Google e OCI. Além das minhas habilidades técnicas, tenho facilidade para trabalhar em equipe, liderar projetos e resolver problemas. Busco sempre me atualizar sobre as novas tecnologias e tendências do mercado. Possuo Formação acadêmica em Análise e desenvolvimento de sistema com pós-graduação em Banco de dados e Big Data (ciência de dados), atualmente estou cursando Mestrado em Marketing digital e Big data pela Fundação Universitária Iberoamericana
+No cenário da nuvem, tenho acompanhado de perto a crescente adoção de ambientes cloud nos últimos anos. Atualmente, colaboro com os principais provedores de nuvem, como AWS, Azure, Google e OCI. Além das habilidades técnicas, destaco minha facilidade em trabalhar em equipe, liderar projetos e resolver desafios de forma eficiente. Mantenho um compromisso constante com a atualização em relação às novas tecnologias e tendências do mercado.
+
+Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas, com pós-graduação em Banco de Dados e Big Data (Ciência de Dados). Atualmente, estou cursando Mestrado em Marketing Digital e Big Data pela Fundação Universitária Iberoamericana, consolidando minha busca contínua por conhecimento e aprimoramento profissional.
 
 
 
 
 ------------------------------------------------------
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&langs_count=6&theme=algolia"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-a-vicente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-a-vicente&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 ------------------------------------------------------
